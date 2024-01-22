@@ -11,4 +11,7 @@
 - [x] NAVER search-adviso
 
 ### 0.4.0
-- [ ] [SEO NAVER](https://github.com/Jaelinny/jaelinny.github.io/issues/4)
+- [ ] [SEO NAVER](https://github.com/Jaelinny/jaelinny.github.io/issues/4
+
+### 0.4.1
+- [x] SEO-NAVER 1
