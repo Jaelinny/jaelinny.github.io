@@ -14,4 +14,7 @@
 - [ ] [SEO NAVER](https://github.com/Jaelinny/jaelinny.github.io/issues/4
 
 ### 0.4.1
-- [x] SEO-NAVER 1
+- [x] SEO-NAVER 1+
+
+### 0.4.2
+- [x] HTML
