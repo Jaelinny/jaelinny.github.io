@@ -5,7 +5,10 @@
 - [x] study html a tag
 
 ### 0.2.0
-- [ ] search-consol
+- [x] search-consol
 
 ### 0.3.0
-- [ ] NAVER search-advisor
+- [x] NAVER search-adviso
+
+### 0.4.0
+- [ ] [SEO NAVER](https://github.com/Jaelinny/jaelinny.github.io/issues/4)
