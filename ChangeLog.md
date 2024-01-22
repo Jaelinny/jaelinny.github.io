@@ -5,4 +5,7 @@
 - [x] study html a tag
 
 ### 0.2.0
-- [ ] search-console
+- [ ] search-consol
+
+### 0.3.0
+- [ ] NAVER search-advisor
