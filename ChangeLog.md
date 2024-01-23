@@ -30,4 +30,7 @@
 
 ### 0.6.0
 - [x] Styduy CSS
-- [x] Resume html
+- [x] Resume htm
+
+### 0.7.0
+- [x] Try Semantic tag
