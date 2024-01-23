@@ -26,4 +26,7 @@
 - [x] SEO
 
 ### 0.5.0
-- [ ] firebase & deploy 
+- [ ] firebase & deploy
+
+### 0.6.0
+- [ ] Stydu CSS 
