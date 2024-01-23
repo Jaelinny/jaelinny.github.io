@@ -31,7 +31,10 @@ i  hosting[jelly]: releasing new version...
 
 ✔  Deploy complete!
 
+Project Console: https://console.firebase.google.com/project/bhanwha-aa806/overview
+Hosting URL: https://bhanwha-dev.web.app
 ```
+
 ### 배포방법
 
 ### Thanks design template
