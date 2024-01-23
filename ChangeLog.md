@@ -29,4 +29,5 @@
 - [ ] firebase & deploy
 
 ### 0.6.0
-- [x] Stydu CSS
+- [x] Styduy CSS
+- [x] Resume html
