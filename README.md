@@ -6,9 +6,6 @@
 - vim
 - html/css
 
-#### STG dev ( jelly.web.app )
-#### STG prd ( jaelinny.github.io )
-
 |STG|BRANCH|TRIGGER|URL|
 |------|---|---|---
 |DEV|Branch of PR|manual firebase cmd*|[jelly.web.app](https://jelly.web.app/)|
