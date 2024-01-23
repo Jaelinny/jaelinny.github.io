@@ -29,4 +29,4 @@
 - [ ] firebase & deploy
 
 ### 0.6.0
-- [ ] Stydu CSS 
+- [x] Stydu CSS
