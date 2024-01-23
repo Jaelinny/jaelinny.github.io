@@ -24,3 +24,6 @@
 
 ### 0.4.4
 - [x] SEO
+
+### 0.5.0
+- [ ] firebase & deploy 
